@@ -41,7 +41,7 @@ class Palette extends Component {
 					level={level}
 					changeLevel={this.changeLevel}
 					handleChange={this.changeFormat}
-					showingAllColors
+					isSingleColor={false}
 				/>
 				<div className={classes.colors}>{colorBoxes}</div>
 				<PaletteFooter paletteName={paletteName} emoji={emoji} />

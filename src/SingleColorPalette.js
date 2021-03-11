@@ -51,7 +51,7 @@ class SingleColorPalette extends Component {
 			<div className={classes.Palette}>
 				<Navbar
 					handleChange={this.changeFormat}
-					showingAllColors={false}
+					isSingleColor
 				/>
 				<div className={classes.colors}>
 					{colorBoxes}
