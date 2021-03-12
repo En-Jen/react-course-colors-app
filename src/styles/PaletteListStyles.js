@@ -12,12 +12,16 @@ export default {
 		alignItems: 'flex-start',
 		flexDirection: 'column',
 		flexWrap: 'wrap',
-		color: 'white',
 	},
 	nav: {
 		display: 'flex',
 		width: '100%',
 		justifyContent: 'space-between',
+		alignItems: 'center',
+		color: 'white',
+		'& a': {
+			color: 'white',
+		},
 	},
 	palettes: {
 		boxSizing: 'border-box',
