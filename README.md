@@ -8,3 +8,4 @@
 -   [Material-UI](https://material-ui.com/)
 -   [React Color](http://casesandberg.github.io/react-color/)
 -   [react-material-ui-form-validator](https://github.com/NewOldMax/react-material-ui-form-validator)
+-   [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
